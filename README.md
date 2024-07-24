@@ -3,6 +3,8 @@ Flasher tool is the Phinia product for communicating with an ECU. At the beginni
 
 Tool has proved itself for diagnostic ECU communication after being used in many different projects, starting from 2005. Tool started it's journey in Delphi company. It belongs to Phinia currently. It requires a valid license to run, and requires update annually.
 
+<img src="https://github.com/user-attachments/assets/96b740a5-be75-46d7-9f48-6eba3da61a2c" width="700" />
+
 Flasher tool supports two modes, Reprogramming and Expert. Reprogramming mode is intended for new starters. It hides advanced-configuration, scripting and running projects.
 
 ## Technical Data
@@ -37,6 +39,7 @@ Additionally, Flasher-project can be used for executing multiple test-scripts an
 
 ## Plugin Support (.NET DLL)
 Flasher supports loading plugin (.NET DLL) file. Plugin file can contain one or more diagnostic functions. Once DLL is loaded by Flasher, supported functions are listed. It is easy to run the selected function.
+
 <img src="https://github.com/user-attachments/assets/7be9385a-76ea-4cc6-b069-10238d2dec7a" width="500">
 
 Flasher displays the trace after running the plugin function.
