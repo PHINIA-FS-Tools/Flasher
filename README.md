@@ -52,7 +52,7 @@ Flasher provides a “cs” file for easily developing plugin. That “cs” fil
 Flasher still supports C++ plugin DLL for **backward compatibility**. New features are not included to C++ plugin interface.
 
 ## Flasher Script
-Flasher supports script format for developing diagnostic routines. It provides an easy way to develop simple diagnostic routines.
+Flasher supports script format for developing diagnostic routines. It provides an easy way to develop simple diagnostic routines.<br>
 ![Flasher_script](https://github.com/user-attachments/assets/d1e0b744-5ade-424a-86ca-1712c2c61b0f)
 
 Script format supports commands for sending/receiving frames, changing default configurations, if condition, loop etc.
