@@ -15,7 +15,7 @@ Flasher tool supports two modes, Reprogramming and Expert. Reprogramming mode is
 **Protocols & Standards:** ISO 15765-2 (Diagnostic on CAN), ISO 10681-2 (Diagnostic on Flexray), AUTOSAR FlexRay TP, ISO 13400-2 (Diagnostic on IP), Diagnostic on LIN, ISO 14229-2 (UDS session layer services), SAE J1939/21, SAE J1939/22
 SAE J2534 (V04.04 and V05.00), ODX (V2.2)
 
-**Measurement devices:** CAN (Vector, Peak, Softing, Kvazer, any SAE J2534 compliant device), CAN-FD (Vector, Peak), Flexray (Vector), LIN (Vector, Intrepid, Peak
+**Measurement devices:** CAN (Vector, Peak, Softing, Kvaser, any SAE J2534 compliant device), CAN-FD (Vector, Peak, Kvaser), Flexray (Vector), LIN (Vector, Intrepid, Peak)
 
 **Development Languages:** C#, Flasher-script-language
 
